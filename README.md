@@ -47,4 +47,4 @@ data = [
 _Возвращает основные параметры функции, минимальное и максимальное отклонение цены._
 
 ## Пример работы программы
-![AlgoTrade](https://github.com/{David2261}/{AlgoTrade321}/raw/main/assets/example.png)
+![AlgoTrade](https://github.com/David2261/AlgoTrade321/blob/main/assets/example.png)
