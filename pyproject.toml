@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "algotrade321"
+version = "0.1.0"
+description = "AlgoTrade321 Project for Moscow Polytech University"
+authors = ["Bulat Nasyrov <bulatnasirov2003@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+numpy = "^1.26.2"
+arch = "^6.2.0"
+matplotlib = "^3.8.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
