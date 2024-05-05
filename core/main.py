@@ -1,9 +1,7 @@
 """ There is entire point for calculation price by gave data """
 import numpy as np
 import pandas as pd
-import matplotlib.pyplot as plt
 import arch
-
 
 
 # Generate a random time series with 1000 observations

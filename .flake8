@@ -1,0 +1,12 @@
+[flake8]
+extend-ignore = W191
+exclude =
+    .git,
+    .vscode,
+    .venv,
+    venv,
+    assets,
+    __pycache__,
+    build,
+    dist,
+    old

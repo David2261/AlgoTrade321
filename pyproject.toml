@@ -11,6 +11,7 @@ python = "^3.11"
 numpy = "^1.26.2"
 arch = "^6.2.0"
 matplotlib = "^3.8.2"
+flake8 = "^7.0.0"
 
 
 [build-system]
