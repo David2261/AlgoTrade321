@@ -62,7 +62,7 @@ def test_sigma2_update():
 
 class TestFit:
 	def setup_method(self):
-		self.data = np.random.normal(size=100)  # генерируем случайные данные
+		self.data = np.random.normal(size=100)
 		self.model = ARCHModel(self.data, p=1, o=0, q=1, dist='normal')
 
 	def test_fit_updates_params(self):
